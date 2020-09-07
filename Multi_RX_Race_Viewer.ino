@@ -8,9 +8,9 @@
 
  //user defined parameters. Between "" add in your wifi ssid, password and the RH server IP address.
  //Make sure to make it a reserved static IP or you will have to change this often
-const char* ssid = "Pop-Up Racing";
-const char* password =  "dogsrule123*";
-const char* mqtt_server = "192.168.8.212";
+const char* ssid = "XXXXXX";
+const char* password =  "YYYYYYYYY";
+const char* mqtt_server = "ZZZ.ZZZ.Z.ZZZ";
 const int mqtt_port = 1883;
 
 //These are the topics the reveivers need to subscribe to. The / separates the topic sequence.
